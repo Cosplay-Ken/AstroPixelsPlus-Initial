@@ -1,3 +1,18 @@
+# FORK Information
+
+## Repository Information
+
+This repository is a snapshot of my original fork and serves as the baseline from which my custom development work began. I intentionally keep this repository close to the original source so I always have a reference point for comparison and troubleshooting.
+
+My active development and custom modifications are maintained in the AstroPixelsPlus-Prod repository. If you are looking for my latest features, enhancements, bug fixes, or project-specific changes, please refer to the Prod version instead.
+
+This repository exists primarily as an archival/reference copy of the starting codebase.
+
+## AstroPixlesPlus-Prod Documentation
+https://github.com/Cosplay-Ken/AstroPixelsPlus-Prod
+
+********** 
+
 # AstroPixelsPlus Firmware
 Alternative firmware sketch for the AstroPixels boards
 
